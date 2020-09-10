@@ -6,6 +6,8 @@ In this module you will use what you've learned about deploying a web applicatio
 
 ## Instructions 
 
+GET THEM INSTRUCTIONS
+
 ### Task 1: Project Set Up
 
 Think about which project you are most proud of up to this point that you have built from the ground up. For this project, you will work on deploying that project using ZEIT, and prepare it to be added to your portfolio site. 
